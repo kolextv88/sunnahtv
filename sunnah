@@ -13,10 +13,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="RELIGI", RodjaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="RodjaTV", RodjaTV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPKzuSGXnuJG5gOA1AGIknytvyxTCq9kQRw&s",RODJA TV 2
+#EXTINF:-1 group-title="RodjaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPKzuSGXnuJG5gOA1AGIknytvyxTCq9kQRw&s",RODJA TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
 
@@ -30,11 +30,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid
 https://e.siar.us/live/deikidstv.m3u8
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png", RODJA TV SD 
+#EXTINF:-1 group-title="RodjaTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png", RODJA TV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png", RODJA TV HD 
+#EXTINF:-1 group-title="RodjaTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png", RODJA TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
